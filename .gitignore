@@ -1,3 +1,23 @@
-venv
-__pycache__
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment and secrets
+.env
 env_variables.txt
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local configs
+*.yaml
+*.yml
+config/

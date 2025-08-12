@@ -1,0 +1,8 @@
+{
+  "questions": [
+    "Scrape data from 'organizations-1000.csv' in the 'uploads/23f27597-e7e6-42c6-ba6c-767fd178fa26/' folder.",
+    "Store the scraped data as 'data.csv' in the 'uploads/23f27597-e7e6-42c6-ba6c-767fd178fa26/' folder.",
+    "Collect and store metadata (DataFrame info, columns, head) about the data in 'metadata.txt' in the same folder.",
+    "Ensure the 'uploads/23f27597-e7e6-42c6-ba6c-767fd178fa26/' directory exists."
+  ]
+}

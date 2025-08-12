@@ -1,6 +1,6 @@
-# Read this file everything will happen on its own.
+# PROJECT 2 FOR TOOLS IN DATA SCIENCE
 
-`Note: try to use linux distro or install WSL(subsystem for linux) on windows.`
+`Note: Try to use a Linux distro or install WSL(Windows subsystem for Linux) on Windows, and mount the location on your WSL shell.`
 
 ## 🚀 Features
 - Automatically installs dependencies from `requirements.txt`
@@ -12,7 +12,7 @@
 
 ## 📦 Prerequisites
 Make sure you have:
-- **Python 3.8+** installed
+- **Python 3.8+** installed (use 3.11 for this if on Windows)
 - **pip** installed
 
 ---
@@ -51,7 +51,7 @@ chmod +x start.sh
 # Lastly copy paste the public url
 Also don't forgot to add "/api" after the url.
 
-- ### public link
+- ### Public Link
 
 eg: https://dd0b98d2abc3.ngrok-free.app
 ![public link](photos/final_public_link.png)
